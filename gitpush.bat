@@ -1,3 +1,3 @@
 git add .
 git commit -m "commit msg"
-git push origin main
+git push -f origin main
